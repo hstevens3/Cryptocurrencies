@@ -1,1 +1,4 @@
-# Cryptocurrencies
+# Module 19 Unsupervised Machine Learning
+# Cryptocurrencies PCA Analysis
+
+This module is performing PCA analysis on cryptocurrencies data imported from a csv file. On my first attempt through Deliverable 3, I was able to generate the Class variable and concatenate it onto the dataframe with the primary components, but I missed a step on how to handle the index (key). And when I attempted to not use that key and use a sequential integer index, I received an error in putting the dataframes back together and adding the Class column. Without that combined dataframe, I couldn't complete most of Deliverable 4. This process gave me some direction on where I could use some more practice. 
